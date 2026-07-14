@@ -55,8 +55,7 @@ An interactive Power BI dashboard built using the SuperStore dataset to analyze 
 
 https://github.com/Ankith020/Sales-and-Retail-Dashboard/blob/main/Screenshot%20(56).png
 
-
-
+https://github.com/Ankith020/Sales-and-Retail-Dashboard/blob/main/Screenshot%20(57).png
 
 # Dashboard Preview
 
