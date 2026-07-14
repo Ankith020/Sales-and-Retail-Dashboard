@@ -53,7 +53,13 @@ An interactive Power BI dashboard built using the SuperStore dataset to analyze 
 
 # Screenshots
 
+https://github.com/Ankith020/Sales-and-Retail-Dashboard/blob/main/Screenshot%20(56).png
 
-📷 Dashboard Preview
-Sales Performance Dashboard
-15-Day Sales Forecast Dashboard
+
+
+
+# Dashboard Preview
+
+•	Sales Performance Dashboard
+•	15-Day Sales Forecast Dashboard
+
